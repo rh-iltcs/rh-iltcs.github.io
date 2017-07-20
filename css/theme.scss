@@ -9,11 +9,13 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat|Playfair+Display');
 
 // Reassign color vars to semantic color scheme
-$brand-primary:             #593287;
+$brand-primary:             #00D5FF;
+
 
 
 $brand-success:             #5cb85c;
-$brand-info:                #333;
+$brand-info:                4EE2FF;
+
 
 
 
@@ -46,6 +48,7 @@ $enable-print-styles:       true !default;
 // Theme settings.
 
 $body-bg: white;
+
 $body-color: #292b2c;
 $body-color-inverse: invert($body-color) !default;
 $link-color: #FF540D;
